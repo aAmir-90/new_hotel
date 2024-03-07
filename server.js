@@ -19,5 +19,5 @@ app.get('/', (req, res)=>{
 });
 
 app.listen(PORT, ()=>{
-    console.log("running on: 5000")
+    console.log("Listening on port: 5000")
 });
